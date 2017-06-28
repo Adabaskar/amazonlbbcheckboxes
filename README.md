@@ -1,2 +1,1 @@
-# amazonlbbcheckboxes
-Webextension that adds checkboxes to Amazon/Lbb account statements
+Adds Checkboxes to the account statements from the amazon/lbb website.
