@@ -4,7 +4,7 @@
 //var transactionPane = 'kkb-transaction-title-list-item' 
 
 //var transactionValueSelectorLbb = 'div.list-item__amount > div.ng-star-inserted:not(.list-item__amount_bonus)'
-var transactionValueSelectorLbb = 'div.transaction-list__item__balance-info__amount'
+var transactionValueSelectorLbb = 'div.transaction-list__item__balance-info-container__amount'
 
 var checkbox = '<input type="checkbox" value="no" style="margin-left: 5px; visibility : visible; display : inline;">'
 var matchesLbb = document.querySelectorAll(transactionValueSelectorLbb);
